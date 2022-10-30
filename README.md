@@ -1,4 +1,4 @@
 # Newsgrid-Website
 Sample Website
 
-click to preview (https://dainty-rugelach-4627ff.netlify.app)
+click to preview (newsgrid-co.netlify.app)
