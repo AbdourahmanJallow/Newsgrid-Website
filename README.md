@@ -1,3 +1,3 @@
 # Newsgrid-Website
-Sample Website
+Sample Website.
 click to preview (newsgrid-co.netlify.app)
